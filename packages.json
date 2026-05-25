@@ -3,7 +3,7 @@
     "display": "EXT Unpacker",
     "author": "ahsanihlwn, cubinator",
     "license": "GPL-3.0",
-    "version": "ahsanihlwn, cubinator | 1.0",
+    "version": "1.0",
     "url": "https://github.com/ahsanihlwn/ext-unpacker-tool/releases/download/v1/ext_tool.zip",
     "binaries": [
       {
@@ -141,6 +141,20 @@
       {
         "name": "lpunpack.exe",
         "size": 6008320
+      }
+    ]
+  }
+},
+  "pac_extractor": {
+    "display": "PAC Extractor",
+    "author": "Bismoy Gosh",
+    "license": "MIT",
+    "version": "1.0",
+    "url": "https://github.com/ahsanihlwn/PAC-Extractor/releases/download/v1/PAC_EXTRACTOR.zip",
+    "binaries": [
+      {
+        "name": "extractor.exe",
+        "size": 7077888
       }
     ]
   }
