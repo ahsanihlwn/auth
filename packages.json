@@ -130,7 +130,6 @@
       }
     ]
   },
-
   "lpunpack": {
     "display": "Lpunpack (SUPER)",
     "author": "ahsanihlwn - unix3dgforce",
@@ -143,8 +142,7 @@
         "size": 6008320
       }
     ]
-  }
-},
+  },
   "pac_extractor": {
     "display": "PAC Extractor",
     "author": "Bismoy Gosh",
