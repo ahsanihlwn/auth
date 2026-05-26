@@ -12,7 +12,6 @@
       }
     ]
   },
-
   "make_ext4fs": {
     "display": "EXT Repacker",
     "author": "anpaza",
@@ -34,7 +33,6 @@
       }
     ]
   },
-
   "erofs_env": {
     "display": "EROFS Environment",
     "author": "sekaiacg",
@@ -64,7 +62,6 @@
       }
     ]
   },
-
   "platform-tools": {
     "display": "ADB Fastboot",
     "author": "Google",
@@ -140,6 +137,19 @@
       {
         "name": "lpunpack.exe",
         "size": 6008320
+      }
+    ]
+  },
+  "magiskboot": {
+    "display": "Magiskboot",
+    "author": "svoboda18 - topjohnwu's",
+    "license": "-",
+    "version": "1.0-3",
+    "url": "https://github.com/svoboda18/magiskboot/releases/download/1.0-3/magiskboot.zip",
+    "binaries": [
+      {
+        "name": "magiskboot.exe",
+        "size": 652288
       }
     ]
   },
