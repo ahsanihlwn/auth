@@ -3,12 +3,12 @@
     "display": "EXT Unpacker",
     "author": "ahsanihlwn, cubinator",
     "license": "GPL-3.0",
-    "version": "1.1",
-    "url": "https://github.com/ahsanihlwn/ext-unpacker-tool/releases/download/v1.1/ext_tool.zip",
+    "version": "1.0",
+    "url": "https://github.com/ahsanihlwn/ext-unpacker-tool/releases/download/v1/ext_tool.zip",
     "binaries": [
       {
         "name": "ext_tool.exe",
-        "size": 7329280
+        "size": 6180352
       }
     ]
   },
