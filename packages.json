@@ -62,6 +62,31 @@
       }
     ]
   },
+  "brotli_env": {
+  "display": "Brotli Environment",
+  "author": "Google",
+  "license": "MIT",
+  "version": "1.2.0",
+  "url": "https://github.com/google/brotli/releases/download/v1.2.0/brotli-x64-windows-dynamic.zip",
+  "binaries": [
+    {
+      "name": "brotli.exe",
+      "size": 27136
+    },
+    {
+      "name": "brotlicommon.dll",
+      "size": 136192
+    },
+    {
+      "name": "brotlidec.dll",
+      "size": 45568
+    },
+    {
+      "name": "brotlienc.dll",
+      "size": 561152
+    }
+  ]
+}
   "platform-tools": {
     "display": "ADB Fastboot",
     "author": "Google",
